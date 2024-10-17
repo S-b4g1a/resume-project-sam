@@ -187,5 +187,9 @@ footer {
 }
 
 .social-links li a i:hover {
-    background: #e8610;
+    background: #e84610;
+}
+
+#footer-details {
+    padding: 20px;
 }
